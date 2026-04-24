@@ -61,8 +61,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 - Add fake data using Seeders and Factories
 
 ## Author
-Name: Ali Shahzad
-Roll No: COSC231101019
+Name: Eman Farooq
+Roll No: COSC231101029
 
 
 
